@@ -1,4 +1,4 @@
--- Query: How do sales vary by year?
+-- Query 1: How do sales vary by year?
 
 SELECT
     YEAR(s.`Order Date`) AS sales_year,
