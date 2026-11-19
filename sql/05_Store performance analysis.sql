@@ -1,1 +1,0 @@
--- Query 1: Store performance analysis
