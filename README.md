@@ -50,11 +50,10 @@ The data dictionary guided the interpretation of fields and relationships betwee
 6. Business insights and recommendations.
 7. Documentation and publication.
 
-## Expected Deliverables
+## Deliverables
 
 - Documented Jupyter notebooks.
 - SQL analysis scripts.
 - Interactive Tableau dashboard.
 - Key findings and business recommendations.
 - Project documentation and visualizations.
-- 
