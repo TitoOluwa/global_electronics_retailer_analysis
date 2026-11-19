@@ -9,6 +9,7 @@ USE global_electronics;
 SELECT DATABASE();
 
 
+
 -- (2)
 -- Verify datasets import 
 USE global_electronics;
@@ -18,6 +19,8 @@ FROM products;
 SELECT *
 FROM products
 LIMIT 5;
+
+
 
 -- (3)
 -- Verify all five tables
